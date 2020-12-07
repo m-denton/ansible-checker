@@ -6,4 +6,4 @@
     - name: Pull from Git
       git: 
         repo=git@github.com:m-denton/ansible-checker.git
-        dest=/tmp
+        dest=/tmp/test
